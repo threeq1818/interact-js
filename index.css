@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.rect {
+    width: 25%;
+    min-height: 6.5em;
+    background-color: #29e;
+    touch-action: none;
+    user-select: none;
+    -webkit-transform: translate(0px, 0px);
+    transform: translate(0px, 0px);
+    border: 2px dashed black;
+}
